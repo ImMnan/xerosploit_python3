@@ -1,8 +1,6 @@
 # xerosploit_python3
 Updated Xeroploit for Python3
 
-Hi Guys, 
-
 Replace your xerosploit.py file with this one. 
 use sudo and cp the file to the xerosploit folder. 
 
